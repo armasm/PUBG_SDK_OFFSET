@@ -1,4 +1,5 @@
 # PUBG_SDK_OFFSET
 pubg sdk and offset
 
-6.5.6.13 sdk support.
+6.4.6.16 sdk support. 2019/12/11
+6.4.6.13 sdk support. 2019/12/10
