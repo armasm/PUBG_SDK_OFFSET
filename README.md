@@ -1,5 +1,6 @@
 # PUBG_SDK_OFFSET
 pubg sdk and offset,code by danxing<br>
+2020/11/11 9.1.7.5 sdk support <br>
 2020/11/06 9.1.7.1 sdk support <br>
 2020/09/24 8.3.5.32 sdk support <br>
 2020/01/20 6.5.8.7 sdk support <br>
